@@ -1,0 +1,2 @@
+# weatherconditionforactivity
+with if conditions
